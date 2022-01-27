@@ -4,4 +4,7 @@
     <string name="app_email">e-mail</string>
     <string name="app_button">Guardar</string>
     <string name="app_my_name">My nombre es</string>
+    <string name="next">next</string>
+    <string name="todo">TODO</string>
+    <string name="back">back</string>
 </resources>

@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_2.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/menu_option.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/menu_option_2.xml" value="0.2109375" />
       </map>
     </option>
   </component>
