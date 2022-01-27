@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex1JuniorHolguin</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_email">e-mail</string>
+    <string name="app_button">Guardar</string>
+    <string name="app_my_name">My nombre es</string>
+</resources>
